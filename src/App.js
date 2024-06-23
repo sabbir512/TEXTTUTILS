@@ -59,7 +59,7 @@ function App() {
     <>
       <Router>
         <Navbar
-          title="TextFormatted"
+          title="TextFormatter"
           mode={mode}
           toggleMode={toggleMode}
           colors={colours}
